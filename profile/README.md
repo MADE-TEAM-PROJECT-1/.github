@@ -12,3 +12,4 @@
 - [Clusterization model](https://github.com/MADE-TEAM-PROJECT-1/clusterization_model)
 - [Classification model](https://github.com/MADE-TEAM-PROJECT-1/classification_model)
 - [Topic modeling](https://github.com/MADE-TEAM-PROJECT-1/classification_model)
+- [Knowledge graph model](https://github.com/MADE-TEAM-PROJECT-1/graph_model)
